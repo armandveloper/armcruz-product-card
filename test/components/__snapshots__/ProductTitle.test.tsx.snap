@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductTitle can render the component with the prop title 1`] = `
+<span
+  className="productDescription "
+>
+  Product 1
+</span>
+`;
+
+exports[`ProductTitle can render the component with the title from provider 1`] = `
+<div
+  className="productCard "
+>
+  <span
+    className="productDescription "
+  >
+    Coffe Mug
+  </span>
+</div>
+`;

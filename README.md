@@ -7,7 +7,7 @@ Paquete de pruebas para desplegar en NPM.
 ## Ejemplo
 
 ```jsx
-import { ProductCard } from '@armcruz/product-card';
+import { ProductCard } from 'armcruz-product-card';
 
 <ProductCard
   product={product}
