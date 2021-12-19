@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage can render the component with the img from provider 1`] = `
+<div
+  className="productCard "
+>
+  <img
+    alt=""
+    className="productImg "
+    src="/coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`ProductImage can render the component with the prop img 1`] = `
+<img
+  alt=""
+  className="productImg "
+  src="/coffee-mug2.png"
+/>
+`;
